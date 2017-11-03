@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ul{
+	width: 125px;
+	height: 27px;
+	margin: 100px auto;
+}
+li{
+	float: left;
+	width: 25px;
+	height: 27px;
+	background: url(../img/2.jpg) no-repeat;
+	list-style: none;
+	cursor: pointer;
+}
